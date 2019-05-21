@@ -14,7 +14,7 @@ Email or raise a ticket if you'd like to get in touch.
 JavaScript, Node.js, React, Git, MySQL, Accessibility, HTML, CSS, Less, a11y, Security, rActive, AngularJS, Backbone.js, NPM, MongoDB, jQuery, Redux, AJAX, Bootstrap, D3.js, WebRTC, Bitbucket, Splunk, Mocha, Chai, Sinon, Gherkin, RESTful APIs, Express.js, Agile
 
 ## Work Experience
-**Chase**  July 2016 - January 2019
+**Chase** ............ July 2016 - January 2019
 
 Software Engineer
 
@@ -47,7 +47,7 @@ At Chase I became the most senior working developer on my team, mastering roles 
 - Analyzed history of requests from product owners by leveraging mastery of JIRA
 
 ## Previous Experience
-**Ernest Gallo Research Center of UCSF (University of California, San Francisco)**  2002-2014
+**Ernest Gallo Research Center of UCSF (University of California, San Francisco)** ............ 2002-2014
 
 Lab Manager
 
@@ -59,7 +59,7 @@ Lab Manager
 - Analyzed decades of research and set best practices, managing bureaucracy to ensure regulatory compliance
 
 ## Software Engineering Projects
-[Gigg.TV](https://github.com/madbernard/GigRTC "See Gigg.TV's GitHub Repo")  2016
+[Gigg.TV](https://github.com/madbernard/GigRTC "See Gigg.TV's GitHub Repo") ............ 2016
 
 Full Stack Developer
 
@@ -71,17 +71,17 @@ Full Stack Developer
 
 ## Education
 
-**Hack Reactor Remote**        2015-2016
+**Hack Reactor Remote** ............ 2015-2016
 
 Advanced Software Engineering Immersive Program
 
-**University of California, Berkeley**      1998-2002
+**University of California, Berkeley** ............ 1998-2002
 
 BA in Molecular Cell Biology, Regents Scholar  
 
 ## Links
 
-stackoverflow.com/u/4852323
+https://stackoverflow.com/users/4852323/mad-bernard
 
 ## Personal
 
