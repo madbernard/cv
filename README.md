@@ -1,10 +1,11 @@
 # MadBernard's Resume
 
-## Highly skilled full stack/front end engineer seeking great team to collaborate with, to build quality code and websites that solve real user problems.
+## Headline
+**Highly skilled full stack/front end engineer seeking great team to collaborate with, to build quality code and websites that solve real user problems.**
 
 I love ownership and communication! If you'd like to provide an accessible experience, I'm your dev. I have a proven track record of delivering robust, secure, responsive experiences to millions.
 
-## Currently seeking positions in the Peninsula and San Francisco
+### Currently seeking positions in the Peninsula and San Francisco
 
 Email or raise a ticket if you'd like to get in touch.
 
@@ -13,13 +14,11 @@ Email or raise a ticket if you'd like to get in touch.
 JavaScript, Node.js, React, Git, MySQL, Accessibility, HTML, CSS, Less, a11y, Security, rActive, AngularJS, Backbone.js, NPM, MongoDB, jQuery, Redux, AJAX, Bootstrap, D3.js, WebRTC, Bitbucket, Splunk, Mocha, Chai, Sinon, Gherkin, RESTful APIs, Express.js, Agile
 
 ## Work Experience
-**Chase**
+**Chase**  July 2016 - January 2019
 
 Software Engineer
 
-July 2016 - January 2019
-
-JP Morgan Chase is the largest bank in America. Its award-winning single-page application website, chase.com, is served to browsers and incorporated into its hybrid mobile apps, helping 35 million monthly active users do their banking online.
+*JP Morgan Chase is the largest bank in America. Its award-winning single-page application website, chase.com, is served to browsers and incorporated into its hybrid mobile apps, helping 35 million monthly active users do their banking online.*
 
 At Chase I became the most senior working developer on my team, mastering roles like mentoring, interviewing, documenting, code review, and presenting. I built pages in the Profile and Servicing area from greenfield, proactively communicating with product owners, designers, and other stakeholders; both remote and in-office. I refactored old broken code, I improved pages with a fine eye for detail, and I discovered and fixed defects.
 
@@ -48,11 +47,11 @@ At Chase I became the most senior working developer on my team, mastering roles 
 - Analyzed history of requests from product owners by leveraging mastery of JIRA
 
 ## Previous Experience
-**Ernest Gallo Research Center of UCSF (University of California, San Francisco)**
+**Ernest Gallo Research Center of UCSF (University of California, San Francisco)**  2002-2014
 
 Lab Manager
 
-2002-2014
+*The Gallo Center did basic brain research using model organisms to identify genes and targeting mechanisms to aid people resisting addiction.*
 
 - Controlled budget, trained dozens of scientists, reduced materials costs by 60%
 - Created data schema and data displays that were used by >100 scientists for >12 years
@@ -60,9 +59,11 @@ Lab Manager
 - Analyzed decades of research and set best practices, managing bureaucracy to ensure regulatory compliance
 
 ## Software Engineering Projects
-[Gigg.TV](https://github.com/madbernard/GigRTC "The GitHub Repo")                             2016    Full Stack Developer
+[Gigg.TV](https://github.com/madbernard/GigRTC "See Gigg.TV's GitHub Repo")  2016
 
-Stream your spontaneous or planned performances live, securely viewable by anyone, using state-of-the-art WebRTC!
+Full Stack Developer
+
+*Stream your spontaneous or planned performances live, securely viewable by anyone, using state-of-the-art WebRTC!*
 
 - Created MySQL database and APIs to speedily serve users tagged, described content
 - Designed Redux forms to allow artists to save images and easily describe their performance
@@ -70,8 +71,13 @@ Stream your spontaneous or planned performances live, securely viewable by anyon
 
 ## Education
 
-**Hack Reactor Remote**    Advanced Software Engineering Immersive Program    2015-2016
-**University of California, Berkeley**    BA in Molecular Cell Biology, Regents Scholar    1998-2002
+**Hack Reactor Remote**        2015-2016
+
+Advanced Software Engineering Immersive Program
+
+**University of California, Berkeley**      1998-2002
+
+BA in Molecular Cell Biology, Regents Scholar  
 
 ## Links
 
